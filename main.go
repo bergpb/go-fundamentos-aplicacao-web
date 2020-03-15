@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"./routes"
+	"go-fundamentos-aplicacao-web/routes"
 )
 
 func main() {
